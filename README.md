@@ -1,7 +1,7 @@
 ## Hey! Hello! Welcome to my homepage! 👋
 My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me by my English name:<strong>Lucio</strong>.<br>
 <strong>Keywords:</strong> Cognitive Robotics Algorithm; Robotics Deep Learning<br>
-❗<strong>I am currently looking for an internship position related to humanoid cognitive algorithms or robot algorithms.</strong>❗
+❗<strong>I am currently looking for an internship position related to cognitive algorithms for humanoid robots or teleoperation algorithms for motion control.</strong>❗
 <h2>Basic personal information</h2>
 
 <li>🎓Postgraduate: Shenzhen University(September 2025 - Now) ---- Mechanical Engineering (Robotics Engineering and Applications)</li>
@@ -54,9 +54,9 @@ My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me b
 </ol>
 <h3>Papers published during the undergraduate period</h3>
 <ol>
+  <li> Co-first Author - <a href="https://www.sciencedirect.com/science/article/pii/S2667379726000689"><em>A comprehensive review of performance evaluation metrics and state-of-the-art advances in lower-limb exoskeletons</em></a>  <br> --2026 Biomimetic Intelligence and Robotics (BIR) </li>
   <li> Co-first Author - <a href="https://link.springer.com/chapter/10.1007/978-981-96-0777-8_22"><em>A novel moving strategy of teleoperating manipulation via exo-gloves</em></a>  <br> --2024 International Conference on Intelligent Robotics and Applications (ICIRA) </li>
   <li> Co-first Author - <a href="https://ieeexplore.ieee.org/document/10354878/authors#full-text-header"><em>A Novel Mobile 3D Printing Robot Incorporating a Planar Five-bar Mechanism</em></a> <br> --2023 IEEE International Conference on Robotics and Biomimetics (ROBIO)</li>
-  
 </ol>
 
 
@@ -66,10 +66,22 @@ My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me b
 <li>Internship position：Motion control algorithm engineer <br>运动控制算法工程师</li>
 <li>Job responsibilities: Mainly responsible for project requirement analysis, VR system code engineering, network teleoperation system architecture design and development, robot arm motion control algorithm code writing and testing.<br>岗位职责：主要负责项目需求分析、VR系统代码工程、网络遥操作系统架构设计开发、机械臂运动控制算法代码编写与测试。</li>
 <li>Internship period: 2024.5-2024.7<br>实习时间：2024.5-2024.7</li>
-<li>Internship program：<a href="https://github.com/LucioRobo-Aimech/VR_Remotely_operated_robotic_arm"> VR_Remotely_operated_robotic_arm</a> <br> 实习项目：VR+遥操作控制机械臂（跳转查看具体项目仓库）</li>
+<li>Internship program：<a href="https://github.com/LucioRobo-Aimech/VR_Remotely_operated_robotic_arm"> VR_Remotely_operated_robotic_arm</a> <br> 实习项目：VR+遥操作控制机械臂（由于公司限制，不允许发布代码，故内容只有项目声明）</li>
 <hr />
 <h3>Project</h3>
 <ol>
+  <li>
+    Project Name:<b>Seg Flow Matching Model</b> 
+    <dl>
+      <dd>Private Project<br>Description: An Attempt to Adopt the Flow Matching Training Paradigm for Training Visual Models Dedicated to Referring Fine Segmentation.</dd>
+    </dl>
+  </li>
+  <li>
+    Project Name:<b>Teleoperation Control for Dual-Arm Mobile Robots</b> 
+    <dl>
+      <dd>Open Project<br>Description: Construction of Heterogeneous Dual-Arm Teleoperation Control Based on Cloud Communication Capability.</dd>
+    </dl>
+  </li>
   <li>
     Project Name:<a href="https://github.com/LucioRobo-Aimech/visExo_Android"> <b>visExo_Android</b></a>
     <dl>
