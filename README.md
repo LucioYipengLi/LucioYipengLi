@@ -8,8 +8,6 @@ My Chinese name is <strong>Yipeng Li(黎逸鹏)</strong>. You can also call me b
 
 <li>🎓Undergraduate: Shenzhen Technology University (September 2021 - July 2025) ---- Electronic Science and Technology</li>
 
-<li>🔍Affiliated laboratory: SZTU-AIMech Lab</li>
-
 <li>💡Personal research group: LightPoint Research</li>
 
 <li>✉️Email: Lucio.YipengLi@outlook.com</li>
